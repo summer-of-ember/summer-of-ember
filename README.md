@@ -2,7 +2,7 @@
 ---
 
 The summer of Ember is a project started by @j-mcnaly and @lrdiv of @kohactive.  
-Our goal is to the take great opensource project and make them even greater by adding ember js.  
+Our goal is to the take great opensource projects and make them even better by adding ember js.  
 The project is meant to run over the course of the summer and we would love others in the EmberJS community to join us.
 
 
