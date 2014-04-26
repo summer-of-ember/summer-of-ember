@@ -33,11 +33,13 @@ The following are a few projects we are suggesting as possible projects to begin
 
 ***Smaller***
   
-- Sidekiq-WebUI
-
+- [Sidekiq](https://github.com/mperham/sidekiq) [Background Jobs] [Admin UI] [No API]
 
 
 ***Larger***
+
+- [SpreeCommerce](https://github.com/spree/spree) [E-Commerece] [Rails] [Api]
+- [GitLab](https://github.com/gitlabhq/gitlabhq) [Git Repo Management] [Rails] [No Api]
 
 ---
 **Disclaimer / Structure:**
