@@ -41,6 +41,10 @@ The following are a few projects we are suggesting as possible projects to begin
 - [SpreeCommerce](https://github.com/spree/spree) [E-Commerece] [Rails] [Api]
 - [GitLab](https://github.com/gitlabhq/gitlabhq) [Git Repo Management] [Rails] [No Api]
 
+***Misc***
+
+- [broccoli-sass2scss](https://github.com/summer-of-ember/broccoli-sass2scss) [Broccoli Plugin] [Sass Support] [Completed]
+
 ---
 **Disclaimer / Structure:**
 Our background is in ruby so there is currently a bias twords ruby projects, we know how to package and easily extend ruby and rails based projects easily, if you are a node or other language expert we still want you to participate but strive to meet the following goals.
