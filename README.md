@@ -16,13 +16,13 @@ So far the team looks like this, but we invite anyone to send a PR that adds the
 #### Individuals
 
 
-- Justin McNally 
-- @lrdiv
+- Justin McNally [(Twitter)](http://www.twitter.com/j_mcnally) [(Github)](http://www.github.com/j-mcnally)
+- Lawrence Davis [(Twitter)](http://www.twitter.com/lrdiv) [(Github)](http://www.github.com/lrdiv)
 
 
 #### Sponsors
 
-- @kohactive
+- [kohactive](http://www.kohactive.com)
 
 
 ## The Projects
